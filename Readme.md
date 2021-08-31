@@ -2,8 +2,10 @@
 
 ## MERN-STACK Development
 
-<div align="centre"><img src="./pro.gif"/>
+<div align="center">
+  <img src="./pro.gif" align="center"/>
 </div>
+
 ---
 
 # Key Features
